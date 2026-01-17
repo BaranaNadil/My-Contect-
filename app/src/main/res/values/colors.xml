@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+<!--    For Light theam-->
+    <color name="gray_50">#e5e7eb</color>
+    <color name="gray_500">#6b7280</color>
+    <color name="gray_700">#374151</color>
+
+<!--    For Night theam-->
+    <color name="gray_950">#030712</color>
+
+<!--    Red Colors-->
+    <color name="red_700">#b91c1c</color>
+
+<!--    Green Colors-->
+    <color name="green_700">#15803d</color>
+
+
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
